@@ -1,7 +1,7 @@
 # Haytek Süt Sığırları Mobil Takip Uygulaması
 ## Proje üzerinde çalışmaya devam etmekteyim.
 
-#Lisans Tezi Uygulama Projesi
+# Lisans Tezi Uygulama Projesi
 <p float="left">
       <img src="https://user-images.githubusercontent.com/74832430/170535511-be876067-2c02-4d88-aa27-12507e2601e6.png" width="300" />
       <img src="https://user-images.githubusercontent.com/74832430/170535537-c3e94a2d-c2f9-4938-94cf-50263c98f316.png" width="300" />
