@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685067736459",
+    "project_id": "haytekprojesii",
+    "storage_bucket": "haytekprojesii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685067736459:android:f7230085b1784d9e8f4b8e",
+        "android_client_info": {
+          "package_name": "com.example.haytek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685067736459-mcfa1pm6183darkefa3m3uiit3g2j7ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haytek",
+            "certificate_hash": "c2d07499d1f68576c48fb3611f0af2c8a1301792"
+          }
+        },
+        {
+          "client_id": "685067736459-95knu2g4lrbulb1nc5gd8vj5sn635flg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCe6pkGQqBgUDY-Nz9QO3jg2z0TwwbHjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685067736459-95knu2g4lrbulb1nc5gd8vj5sn635flg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
